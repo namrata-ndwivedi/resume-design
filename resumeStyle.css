@@ -1,0 +1,83 @@
+.gray-ornament{
+    background-color: gray;
+    height: 30px;
+}
+
+.white-ornament{
+    background-color: whitesmoke;
+    height: 20px;
+}
+
+.general-section{
+    background-color: gray;
+    padding: 0;
+    text-align: center;
+    position: relative;
+}
+
+.image-border-style{
+    border: 5px dotted sandybrown;
+    border-radius: 100px;
+}
+
+.image-background-color{
+    border: 3px dotted sandybrown;
+    border-radius: 100px;
+}
+
+.name{
+    color: gray;
+    background: yellow;
+    display: inline;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 10px;
+    padding: 2px 10px;
+    position: absolute;
+    top: 95px;
+    left: 550px;
+}
+
+.center-text{
+    color: gray;
+    text-align: center;
+    padding : 5px 40px;
+}
+
+.column{
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.left-column-render{
+    padding-top: 10px;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+.right-column-render{
+    padding-top: 10px;
+    border-left: 2px solid gray;
+    margin-left: 40px;
+    margin-right: 10px;
+    padding-left: 30px;
+}
+
+.content-style{
+    color: black;
+    font-size: 20px;
+    font-weight: 800px;
+}
+
+.field-header-style{
+    color: gray;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.skill-name{
+    display: inline-flex;
+    width:"100%";
+    padding-right: 10px;
+}
